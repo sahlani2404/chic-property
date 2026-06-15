@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1781463288091",
+    "name": "Test User",
+    "email": "test@test.com",
+    "message": "Testing API",
+    "read": false,
+    "reply": "",
+    "createdAt": "2026-06-14T18:54:48.091Z"
+  },
+  {
+    "id": "1781463320414",
+    "name": "yawaw",
+    "email": "wayawairdrop@gmail.com",
+    "message": "test",
+    "read": false,
+    "reply": "",
+    "createdAt": "2026-06-14T18:55:20.414Z"
+  },
+  {
+    "id": "1781465185271",
+    "name": "Automated Test",
+    "email": "auto@test.com",
+    "message": "Test dari automated testing",
+    "read": false,
+    "reply": "",
+    "createdAt": "2026-06-14T19:26:25.271Z"
+  },
+  {
+    "id": "1781490437868",
+    "name": "g",
+    "email": "g@h.c",
+    "message": "c",
+    "read": false,
+    "reply": "",
+    "createdAt": "2026-06-15T02:27:17.868Z"
+  },
+  {
+    "id": "1781527986717",
+    "name": "sahlani",
+    "email": "sahlani2404@gmail.com",
+    "message": "ready",
+    "read": false,
+    "reply": "",
+    "createdAt": "2026-06-15T12:53:06.717Z"
+  }
+]

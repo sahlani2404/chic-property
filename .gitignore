@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+node_modules_bak/
+
+# Build output
+dist/
+.tmp/
+
+# Logs
+*.log
+app.log
+stderr.log
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Lock files (keep one)
+package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Cloudflare
+.wrangler/
+
+# Temp
+tmp/
